@@ -26,4 +26,4 @@ jobs:
       env:
         USERS: ${{ secrets.USERS }}
       run: |
-        python Main.py
+        python temp.py
